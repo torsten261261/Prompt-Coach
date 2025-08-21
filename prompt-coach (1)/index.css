@@ -1,0 +1,8 @@
+/* Fallback-Styles, damit das UI sichtbar ist */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body { margin: 0; background: #0b2a66; color: #ffffff; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+a { color: #60a5fa; }
+
+/* Wenn du Tailwind per CDN nutzt, brauchst du hier nichts weiter.
+   (Die Warnung in der Konsole ist normal für die CDN-Variante.) */
