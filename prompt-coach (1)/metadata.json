@@ -1,0 +1,5 @@
+{
+  "name": "Prompt-Coach",
+  "description": "An application to help users optimize their prompts for generative AI. It asks clarifying questions and builds a structured prompt based on the 'Role, Task, Goal' principle.",
+  "requestFramePermissions": []
+}
